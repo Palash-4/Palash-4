@@ -1,16 +1,87 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=220&section=header&text=Md.%20Hasan%20Al%20Tarek%20Palash&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**Palash-4/Palash-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hello+there!;Nice+to+meet+you;My+name+is+Md.+Hasan+Al+Tarek+Palash" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Web Development Enthusiast | Aspiring Full-Stack Developer
+
+<p align="center">
+🚀 Learning JavaScript & React | Exploring Backend & Full Stack Development 🌍
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasan-al-tarek/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/hasanaltarek">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/hasanall.tarek">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:hasanaltaekpalash@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Talking About Personal Stuff
+
+- 🚀 I’m currently learning **Web Development**
+- 🔍 Exploring **Backend & Full Stack Development**
+- 📫 Email: **hasanaltarekpalash@gmail.com**
+
+---
+
+## ❤️ My Absolute Favorites
+
+- 💻 I love building projects  
+- 🚀 Exploring new technologies  
+
+---
+
+## 🔥 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,mysql,tailwind,python,java,cpp,c" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+const palash = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++", "C"],
+  tools: [
+    "React",
+    "Next.js",
+    "Tailwind CSS"
+  ],
+  architecture: [
+    "learning basics",
+    "frontend development",
+    "backend exploration"
+  ],
+  currentFocus: "Web Development",
+  learning: [
+    "Backend",
+    "Full Stack"
+  ],
+  reachMe: "hasanaltaekpalash@gmail.com",
+  funFact: "I love building projects and exploring new technologies 🚀"
+};
