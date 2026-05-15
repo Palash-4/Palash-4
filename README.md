@@ -53,15 +53,42 @@
 
 ## ❤️ My Absolute Favorites
 
-- 💻 I love building projects  
-- 🚀 Exploring new technologies  
+- 💻 I love building projects
+- 🚀 Exploring new technologies
+
+---
+
+## 🧠 Current Focus
+
+```yaml
+Frontend:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express.js
+
+Database:
+  - MongoDB
+  - MySQL
+  - Oracle Database
+
+Programming:
+  - JavaScript
+  - Python
+  - Java
+  - C++
+  - C
+```
 
 ---
 
 ## 🔥 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,mysql,tailwind,python,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,java,python,cpp,c,git,github,vscode,firebase" />
 </p>
 
 ---
@@ -71,22 +98,48 @@
 ```js
 const palash = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++", "C"],
+
+  code: [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Python",
+    "Java",
+    "C++",
+    "C"
+  ],
+
   tools: [
     "React",
     "Next.js",
-    "Tailwind CSS"
+    "Tailwind CSS",
+    "Node.js",
+    "MongoDB"
   ],
+
   architecture: [
-    "learning basics",
-    "frontend development",
-    "backend exploration"
+    "Frontend Development",
+    "Responsive Design",
+    "Backend Exploration"
   ],
-  currentFocus: "Web Development",
+
+  currentFocus: "Full Stack Web Development",
+
   learning: [
     "Backend",
-    "Full Stack"
+    "Full Stack",
+    "Advanced React"
   ],
-  reachMe: "hasanaltaekpalash@gmail.com",
-  funFact: "I love building projects and exploring new technologies 🚀"
+
+  reachMe: "hasanaltarekpalash@gmail.com",
+
+  funFact:
+    "I love building projects and exploring new technologies 🚀"
 };
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
