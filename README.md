@@ -22,18 +22,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasan-al-tarek/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/hasan-al-tarek-palash-9ab643323/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
-  <a href="https://x.com/hasanaltarek">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+
+  <a href="https://github.com/Palash-4">
+    <img src="https://skillicons.dev/icons?i=github" height="55"/>
   </a>
-  <a href="https://www.facebook.com/hasanall.tarek">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
+  <a href="mailto:hasanaltarekpalash@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" height="55"/>
   </a>
-  <a href="mailto:hasanaltaekpalash@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://www.instagram.com/hasan_al_tarek">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="55"/>
   </a>
+
 </p>
 
 ---
