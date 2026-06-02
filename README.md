@@ -1,28 +1,24 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=220&section=header&text=Md.%20Hasan%20Al%20Tarek%20Palash&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:2c5364&text=Hasan%20Al%20Tarek%20Palash&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20|%20CSE%20Student%20at%20DIU&descAlignY=65"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student+at+Daffodil+International+University;Frontend+Developer;React+%7C+Next.js+Developer;Learning+Backend+Development;Future+Full+Stack+Developer" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hello+there!;Nice+to+meet+you;My+name+is+Md.+Hasan+Al+Tarek+Palash" />
-</p>
+# 👋 Hello, I'm Hasan Al Tarek Palash
 
----
+💻 Frontend Developer | 🎓 CSE Student at Daffodil International University
 
-## 💻 Web Development Enthusiast | Aspiring Full-Stack Developer
-
-<p align="center">
-🚀 Learning JavaScript & React | Exploring Backend & Full Stack Development 🌍
-</p>
+Passionate about building modern, responsive, and user-friendly web applications using React.js, Next.js, Tailwind CSS, and JavaScript. Currently exploring backend technologies and working toward becoming a Full Stack Developer.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/hasan-al-tarek-palash-9ab643323/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
@@ -39,22 +35,71 @@
     <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="55"/>
   </a>
 
+  <a href="https://hasan-al-tarek-palash.vercel.app/">
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="55"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 Talking About Personal Stuff
+## 🚀 About Me
 
-- 🚀 I’m currently learning **Web Development**
-- 🔍 Exploring **Backend & Full Stack Development**
-- 📫 Email: **hasanaltarekpalash@gmail.com**
+* 🎓 B.Sc. in Computer Science & Engineering (3rd Year)
+* 🏫 Daffodil International University
+* 💻 Frontend Developer
+* 🌱 Currently learning Node.js, Express.js, and MongoDB
+* 🚀 Passionate about Web Development
+* ⚡ Love building projects and learning new technologies
+* 📫 Email: **[hasanaltarekpalash@gmail.com](mailto:hasanaltarekpalash@gmail.com)**
 
 ---
 
-## ❤️ My Absolute Favorites
+## 🌍 Portfolio
 
-- 💻 I love building projects
-- 🚀 Exploring new technologies
+🔗 **Portfolio Website**
+**https://hasan-al-tarek-palash.vercel.app/**
+
+---
+
+## 🚀 Featured Projects
+
+### 💡 IdeaVault
+
+A modern idea management platform where users can create, organize, and manage ideas efficiently.
+
+🔗 Live Demo: https://idea-vault-gilt.vercel.app/
+
+🔗 Client Repository: https://github.com/Palash-4/IdeaVault
+
+🔗 Server Repository: https://github.com/Palash-4/IdeaVault-Server
+
+---
+
+### 🛒 SunCart – Summer Essentials Store
+
+Modern eCommerce platform built with Next.js, Tailwind CSS, Better Auth, and MongoDB.
+
+🔗 Live Demo: https://sun-cart-summer-store.vercel.app/
+
+🔗 Repository: https://github.com/Palash-4/SunCart-SummerStore
+
+---
+
+### 🤝 KeenKeeper
+
+Friendship tracking web application for maintaining meaningful relationships.
+
+🔗 Live Demo: https://keen-keeper-vjd4.vercel.app/
+
+🔗 Repository: https://github.com/Palash-4/Keen-Keeper
+
+---
+
+### 🌐 Personal Portfolio
+
+A personal portfolio website showcasing my projects, skills, and achievements.
+
+🔗 Live Demo: https://hasan-al-tarek-palash.vercel.app/
 
 ---
 
@@ -83,8 +128,6 @@ Programming:
   - C
 ```
 
----
-
 ## 🔥 Languages & Tools
 
 <p align="center">
@@ -93,45 +136,49 @@ Programming:
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palash-4&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palash-4&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Palash-4&theme=tokyonight" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
-```js
+```javascript
 const palash = {
-  pronouns: "he/him",
+  education: "CSE Student at DIU",
+  role: "Frontend Developer",
 
-  code: [
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "Python",
-    "Java",
-    "C++",
-    "C"
-  ],
-
-  tools: [
-    "React",
+  technologies: [
+    "React.js",
     "Next.js",
     "Tailwind CSS",
     "Node.js",
+    "Express.js",
     "MongoDB"
   ],
 
-  architecture: [
-    "Frontend Development",
-    "Responsive Design",
-    "Backend Exploration"
-  ],
-
-  currentFocus: "Full Stack Web Development",
+  currentFocus: "Frontend Development",
 
   learning: [
-    "Backend",
-    "Full Stack",
-    "Advanced React"
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Full Stack Development"
   ],
 
-  reachMe: "hasanaltarekpalash@gmail.com",
+  portfolio:
+    "hasan-al-tarek-palash.vercel.app",
 
   funFact:
     "I love building projects and exploring new technologies 🚀"
